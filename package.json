@@ -4,6 +4,7 @@
   "description": "A dark theme focusing on Go colors",
   "version": "0.0.1",
   "publisher": "mergimujkani",
+  "icon": "images/theme-profile.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/MergimU/gopher-theme"
