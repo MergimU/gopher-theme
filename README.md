@@ -1,4 +1,4 @@
-# Gopher Minimal Theme
+# Gopher Night Theme
 
 A clean and minimalistic VS Code theme inspired by Go's mascot 🥏
 
@@ -12,14 +12,13 @@ A clean and minimalistic VS Code theme inspired by Go's mascot 🥏
 
 ## Installation
 
-1. Open VS Code
-2. Press `Cmd+P` (macOS) or `Ctrl+P` (Windows/Linux)
-3. Type `ext install gopher-minimal`
-4. Press Enter to install
+1. Open VS Code Marketplace
+2. Search for "gopher-night-theme" 
+4. Press install
 
 ## Customization
 
-If you don't wont a cluttered vs code view like in the above image, add these to `settings.json`:
+If you want a minimalistic view of VS Code like in the above image, add these to `settings.json`:
 
 ```json
   "workbench.editor.wrapTabs": true,
@@ -31,6 +30,9 @@ If you don't wont a cluttered vs code view like in the above image, add these to
   "workbench.activityBar.location": "bottom",
   "breadcrumbs.enabled": false,
   "vim.smartRelativeLine": true,
+  "editor.wordWrap": "on",
+  "editor.stickyScroll.scrollWithEditor": false,
+  "editor.stickyScroll.enabled": false,
 ```
 
 You can customize this theme in your `settings.json`:
