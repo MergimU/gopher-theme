@@ -13,6 +13,8 @@
     "editor.wordHighlightStrongBackground": "#ffffff1d",
     "editor.wordHighlightBackground": "#238acf30",
     "editorIndentGuide.background1": "#2a3038",
+    "editor.findMatchBackground": "#4dabf769", // Current search match
+    "editor.findMatchHighlightBackground": "#3dd8ed37", // Other matches
 
     // Tabs
     "editorGroupHeader.tabsBackground": "#0000001d",
