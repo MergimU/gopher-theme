@@ -1,8 +1,9 @@
 {
   "name": "gopher-theme",
   "displayName": "Gopher Theme",
-  "description": "A theme focusing on Go colors",
+  "description": "A dark theme focusing on Go colors",
   "version": "0.0.1",
+  "publisher": "mergimujkani",
   "engines": {
     "vscode": "^1.100.0"
   },
