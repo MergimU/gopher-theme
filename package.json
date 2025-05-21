@@ -1,0 +1,21 @@
+{
+  "name": "gopher-theme",
+  "displayName": "Gopher Theme",
+  "description": "A theme focusing on Go colors",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Gopher Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Gopher Color-theme.json"
+      }
+    ]
+  }
+}
