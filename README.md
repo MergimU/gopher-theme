@@ -9,7 +9,6 @@ A clean and minimalistic VS Code theme inspired by Go's mascot 🥏
 - Soft, eye-friendly color palette
 - Optimized for readability
 - Special attention to Go syntax highlighting
-- Dark variant only for now
 
 ## Installation
 
