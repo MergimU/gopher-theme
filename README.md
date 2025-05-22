@@ -21,18 +21,28 @@ A clean and minimalistic VS Code theme inspired by Go's mascot 🥏
 If you want a minimalistic view of VS Code like in the above image, add these to `settings.json`:
 
 ```json
-  "workbench.editor.wrapTabs": true,
-  "window.density.editorTabHeight": "compact",
-  "editor.minimap.enabled": false,
-  "editor.lineHeight": 1.4,
-  "workbench.statusBar.visible": false,
-  "workbench.tree.enableStickyScroll": false,
-  "workbench.activityBar.location": "bottom",
-  "breadcrumbs.enabled": false,
-  "vim.smartRelativeLine": true,
-  "editor.wordWrap": "on",
-  "editor.stickyScroll.scrollWithEditor": false,
-  "editor.stickyScroll.enabled": false,
+    "workbench.colorTheme": "Gopher Theme",
+    "workbench.editor.wrapTabs": true,
+    "window.density.editorTabHeight": "compact",
+    "editor.minimap.enabled": false,
+    "editor.lineHeight": 1.4,
+    "workbench.statusBar.visible": false,
+    "workbench.tree.enableStickyScroll": false,
+    "workbench.activityBar.location": "bottom",
+    "breadcrumbs.enabled": false,
+    "editor.wordWrap": "on",
+    "editor.stickyScroll.scrollWithEditor": false,
+    "editor.stickyScroll.enabled": false,
+    "editor.lightbulb.enabled": "off",
+    
+    // vim settings
+    "vim.smartRelativeLine": true,
+    "vim.leader": "<space>",
+    "vim.highlightedyank.enable": true,
+    "vim.useSystemClipboard": true,
+    "vim.highlightedyank.color": "#4dabf7af",
+    "vim.highlightedyank.duration": 150,
+
 ```
 
 You can customize this theme in your `settings.json`:
