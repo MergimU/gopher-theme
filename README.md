@@ -53,6 +53,8 @@ To set a **faster** key repeat rate beyond the limit follow these instructions.
 
 **Note** After setting these settings, restart your device (Configs are for mac users).
 
+In your terminal paste this:
+
 ```
 defaults write -g KeyRepeat -int 1
 defaults write -g InitialKeyRepeat -int 10
@@ -67,7 +69,7 @@ defaults delete -g InitialKeyRepeat
 
 ## Feedback
 
-- [Report Issues](https://github.com/yourusername/gopher-minimal/issues)
-- [Request Features](https://github.com/yourusername/gopher-minimal/issues)
+- [Report Issues](https://github.com/MergimU/gopher-theme/issues)
+- [Request Features](https://github.com/MergimU/gopher-theme/issues)
 
-**Happy Coding with Gopher Minimal! 🥏**
+**Happy Coding with Gopher Night Theme! 🥏**
