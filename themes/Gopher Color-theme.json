@@ -108,9 +108,23 @@
     },
     {
       "name": "Variables",
+      "scope": ["variable.other.property.js", "meta.object-literal.key.ts", "meta.definition.variable.js"],
+      "settings": {
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "name": "Variable Object Property",
       "scope": ["variable", "string constant.other.placeholder"],
       "settings": {
         "foreground": "#82e8edcb"
+      }
+    },
+    {
+      "name": "TS This keyword",
+      "scope": ["variable.language.this.ts", "variable.language.this.js"],
+      "settings": {
+        "foreground": "#dfcef4"
       }
     },
     {
