@@ -2,7 +2,7 @@
   "name": "gopher-night-theme",
   "displayName": "Gopher Night Theme",
   "description": "A dark theme focusing on Go colors",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "publisher": "mergimujkani",
   "icon": "images/theme-profile.png",
   "repository": {
@@ -17,7 +17,7 @@
     "Gopher theme"
   ],
   "engines": {
-    "vscode": "^1.100.0"
+    "vscode": ">=1.75.0"
   },
   "categories": [
     "Themes"

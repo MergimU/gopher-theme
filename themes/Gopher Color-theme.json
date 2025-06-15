@@ -87,9 +87,15 @@
       }
     },
     {
-      "scope": ["text.html.derivative", "meta.decorator.ts", "source.ts"],
+      "scope": ["text.html.derivative", "source.ts"],
       "settings": {
         "foreground": "#ffffff"
+      }
+    },
+    {
+      "scope": ["meta.decorator.ts", "punctuation.decorator.ts", "punctuation.decorator.js"],
+      "settings": {
+        "foreground": "#9D9D9D"
       }
     },
     {
